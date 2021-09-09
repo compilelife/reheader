@@ -1,0 +1,25 @@
+{
+  "name": "@compilelife/reheader",
+  "version": "1.0.0",
+  "description": "handy tool to smartly add chapter numbers to markdown headers",
+  "main": "index.js",
+  "bin": "./bin/cli.js",
+  "scripts": {
+    "test": "npx jest"
+  },
+  "keywords": [
+    "markdown",
+    "header"
+  ],
+  "author": {
+    "name": "compilelife",
+    "email": "compilelife@163.com"
+  },
+  "license": "ISC",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org"
+  },
+  "devDependencies": {
+    "jest": "^27.1.1"
+  }
+}
