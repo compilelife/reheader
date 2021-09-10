@@ -33,4 +33,4 @@ console.log(reheader('# h1'))
 
 - [ ] support Setext-style headers
 - [ ] support various number style
-- [ ] plugin for vscode/typora/...
+- [ ] plugin for vscode
